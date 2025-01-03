@@ -60,7 +60,7 @@ python main.py
 
 ## Contributing
 
-Tidy is an open-source project, and contributions are welcome! If you'd like to contribute, follow these steps:
+change-dispenser is an open-source project, and contributions are welcome! If you'd like to contribute, follow these steps:
 
 1. Fork the repository.
 
@@ -86,8 +86,6 @@ denominations = {
     # Add more denominations as needed
 }
 ```
-
----
 
 ## License
 
